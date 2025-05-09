@@ -6,7 +6,7 @@ $phi = 3.14;
 
 $volume = $phi * $jari_jari * $jari_jari * $tinggi;
 
-echo "<h2>Perhitungan Volume Tabung Naufal-DNK</h2>";
+echo "<h2>Perhitungan Volume Tabung Syaiful</h2>";
 echo "<p>Jari-jari (r): " . $jari_jari . "</p>";
 echo "<p>Tinggi (t): " . $tinggi . "</p>";
 echo "<p>Nilai Pi (&phi;): " . $phi . "</p>";
